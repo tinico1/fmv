@@ -1,0 +1,6 @@
+/home/cloudera/workspace/practica1/src/main/java/practica1/wordCount/DriverWordCount.java
+/home/cloudera/workspace/practica1/src/main/java/practica1/wordCount/MapperWordCount.java
+/home/cloudera/workspace/practica1/src/main/java/practica1/inicio/DriverIdentity.java
+/home/cloudera/workspace/practica1/src/main/java/practica1/inicio/MapperIdentity.java
+/home/cloudera/workspace/practica1/src/main/java/practica1/wordCount/ReducerWordCount.java
+/home/cloudera/workspace/practica1/src/main/java/practica1/inicio/ReducerIdentity.java
