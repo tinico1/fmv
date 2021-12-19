@@ -44,9 +44,10 @@
       <version>${cdh-version}</version>
     </dependency>
       <dependency>
-    <groupId>org.apache.logging.log4j</groupId>
-    <artifactId>log4j-api</artifactId>
-    <version>2.5</version>
+<dependency>
+  <groupId>org.apache.logging.log4j</groupId>
+  <artifactId>log4j-api</artifactId>
+  <version>[2.16.0,)</version>
   </dependency>
   <dependency>
     <groupId>org.apache.logging.log4j</groupId>
